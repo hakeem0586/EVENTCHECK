@@ -1,0 +1,6 @@
+{
+  "name": "Suivi Billets & Entités",
+  "description": "Application complète de gestion et de checking des billets d'un événement distribué par entités, avec import/export Excel, rôles d'accès, historique d'actions et de sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
